@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1516432491 source:d:\facultate\test\alocaridinam\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

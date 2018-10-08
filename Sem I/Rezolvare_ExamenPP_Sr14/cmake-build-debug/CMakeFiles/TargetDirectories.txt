@@ -1,0 +1,3 @@
+/cygdrive/d/Facultate/Rezolvare_ExamenPP_Sr14/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/d/Facultate/Rezolvare_ExamenPP_Sr14/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/d/Facultate/Rezolvare_ExamenPP_Sr14/cmake-build-debug/CMakeFiles/Rezolvare_ExamenPP_Sr14.dir

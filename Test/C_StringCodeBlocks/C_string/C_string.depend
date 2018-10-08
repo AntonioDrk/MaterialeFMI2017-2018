@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512481848 source:d:\facultate\test\c_stringcodeblocks\c_string\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/Rezolvare_ExamenPP_Sr14.dir/main.c.o  -o Rezolvare_ExamenPP_Sr14.exe -Wl,--out-implib,libRezolvare_ExamenPP_Sr14.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

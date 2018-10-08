@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/C_String.dir/main.c.o  -o C_String.exe -Wl,--out-implib,libC_String.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

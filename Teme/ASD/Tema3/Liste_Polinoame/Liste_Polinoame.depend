@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1510599978 source:d:\facultate\teme\asd\tema3\liste_polinoame\main.cpp
+	<iostream>
+	<fstream>
+
+1510651479 source:e:\134\remus antonio\tema3\liste_polinoame\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+

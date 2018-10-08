@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/TEMA1.dir/main.cpp.o  -o TEMA1.exe -Wl,--out-implib,libTEMA1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

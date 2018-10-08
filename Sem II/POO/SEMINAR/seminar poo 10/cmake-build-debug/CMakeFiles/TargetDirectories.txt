@@ -1,0 +1,3 @@
+/home/andrei243/program c++/seminar poo 10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/andrei243/program c++/seminar poo 10/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andrei243/program c++/seminar poo 10/cmake-build-debug/CMakeFiles/seminar_poo_10.dir
